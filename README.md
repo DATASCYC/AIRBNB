@@ -5,6 +5,7 @@
 This project, titled "Competing with Airbnb: Affordable Housing Solutions for Middle-Class Retired Couples in Amsterdam," aims to explore the rental property market in Amsterdam with a focus on middle-class retired couples. The project utilizes data-driven analysis to identify housing options that balance affordability, comfort, and accessibility, catering specifically to the needs of this demographic.
 
 **Key Findings and Their Impact**
+
 **1. Market Analysis and Trends**
 Price vs. Frequency Trends: The analysis revealed a high concentration of rental properties in the lower price ranges, indicating a trend towards affordability in the market. The majority of listings are available at lower prices, with a significant drop in frequency as prices increase. This suggests that budget-friendly options are more prevalent, which is beneficial for middle-class retirees seeking cost-effective accommodations.
 
